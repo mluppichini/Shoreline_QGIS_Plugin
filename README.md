@@ -6,5 +6,5 @@ To use Shoreline Identification Plugin
 
 
 More details on the use of the plugin and the algorithm can be found in the following article:
-DOI
+ https://doi.org/10.3390/w12113110
 
