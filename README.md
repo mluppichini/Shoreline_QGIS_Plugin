@@ -1,9 +1,6 @@
-# Shoreline_QGIS_Plugin
+# Shoreline Identificator
 
-To use Shoreline Identification Plugin
- 1) Download the zipFile
- 2) Install the plugin using install plugin from ZIP (in QGIS: Plugins/Install Plugins/Install from ZIP)
-
+The plugin is on QGIS repository
 
 More details on the use of the plugin and the algorithm can be found in the following article:
  https://doi.org/10.3390/w12113110
