@@ -1,4 +1,4 @@
-# Shoreline Identificator
+# Shoreline Identifier
 
 2021-03-13: the plugin is on QGIS repository
 
